@@ -1,0 +1,7 @@
+apiRules:
+- include:
+    uidRegex: ^Adrenak.UnityOpus
+    type: Namespace
+- exclude:
+    uidRegex: ^Adrenak.UnityOpus.Samples
+    type: Namespace

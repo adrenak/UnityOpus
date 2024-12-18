@@ -1,0 +1,40 @@
+name: Documentation
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  # Build the documentation
+  build:
+    runs-on: windows-latest # Required by DocFX
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0 # Ensure full history is fetched for the reset to work next
+
+      - name: Hard Reset
+        run: |
+          git reset --hard HEAD
+          git clean -fdx # Remove untracked files and directories
+
+      - name: Install DocFX
+        run: choco install -y docfx
+
+      - name: Use README.md as index.md
+        run: cp README.md Documentation/index.md
+
+      - name: Build DocFX
+        run: docfx Documentation/docfx.json
+
+      - name: List generated site files
+        run: dir _site
+
+      - name: Deploy site
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: _site

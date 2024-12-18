@@ -1,0 +1,521 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Adrenak.UnityOpus
+  name: Adrenak.UnityOpus
+  href: api/Adrenak.UnityOpus.html
+  commentId: N:Adrenak.UnityOpus
+  fullName: Adrenak.UnityOpus
+  nameWithType: Adrenak.UnityOpus
+- uid: Adrenak.UnityOpus.Decoder
+  name: Decoder
+  href: api/Adrenak.UnityOpus.Decoder.html
+  commentId: T:Adrenak.UnityOpus.Decoder
+  fullName: Adrenak.UnityOpus.Decoder
+  nameWithType: Decoder
+- uid: Adrenak.UnityOpus.Decoder.#ctor(Adrenak.UnityOpus.SamplingFrequency,Adrenak.UnityOpus.NumChannels)
+  name: Decoder(SamplingFrequency, NumChannels)
+  href: api/Adrenak.UnityOpus.Decoder.html#Adrenak_UnityOpus_Decoder__ctor_Adrenak_UnityOpus_SamplingFrequency_Adrenak_UnityOpus_NumChannels_
+  commentId: M:Adrenak.UnityOpus.Decoder.#ctor(Adrenak.UnityOpus.SamplingFrequency,Adrenak.UnityOpus.NumChannels)
+  fullName: Adrenak.UnityOpus.Decoder.Decoder(Adrenak.UnityOpus.SamplingFrequency, Adrenak.UnityOpus.NumChannels)
+  nameWithType: Decoder.Decoder(SamplingFrequency, NumChannels)
+- uid: Adrenak.UnityOpus.Decoder.#ctor*
+  name: Decoder
+  href: api/Adrenak.UnityOpus.Decoder.html#Adrenak_UnityOpus_Decoder__ctor_
+  commentId: Overload:Adrenak.UnityOpus.Decoder.#ctor
+  isSpec: "True"
+  fullName: Adrenak.UnityOpus.Decoder.Decoder
+  nameWithType: Decoder.Decoder
+- uid: Adrenak.UnityOpus.Decoder.Decode(System.Byte[],System.Int32,System.Single[],System.Int32)
+  name: Decode(Byte[], Int32, Single[], Int32)
+  href: api/Adrenak.UnityOpus.Decoder.html#Adrenak_UnityOpus_Decoder_Decode_System_Byte___System_Int32_System_Single___System_Int32_
+  commentId: M:Adrenak.UnityOpus.Decoder.Decode(System.Byte[],System.Int32,System.Single[],System.Int32)
+  name.vb: Decode(Byte(), Int32, Single(), Int32)
+  fullName: Adrenak.UnityOpus.Decoder.Decode(System.Byte[], System.Int32, System.Single[], System.Int32)
+  fullName.vb: Adrenak.UnityOpus.Decoder.Decode(System.Byte(), System.Int32, System.Single(), System.Int32)
+  nameWithType: Decoder.Decode(Byte[], Int32, Single[], Int32)
+  nameWithType.vb: Decoder.Decode(Byte(), Int32, Single(), Int32)
+- uid: Adrenak.UnityOpus.Decoder.Decode*
+  name: Decode
+  href: api/Adrenak.UnityOpus.Decoder.html#Adrenak_UnityOpus_Decoder_Decode_
+  commentId: Overload:Adrenak.UnityOpus.Decoder.Decode
+  isSpec: "True"
+  fullName: Adrenak.UnityOpus.Decoder.Decode
+  nameWithType: Decoder.Decode
+- uid: Adrenak.UnityOpus.Decoder.Dispose
+  name: Dispose()
+  href: api/Adrenak.UnityOpus.Decoder.html#Adrenak_UnityOpus_Decoder_Dispose
+  commentId: M:Adrenak.UnityOpus.Decoder.Dispose
+  fullName: Adrenak.UnityOpus.Decoder.Dispose()
+  nameWithType: Decoder.Dispose()
+- uid: Adrenak.UnityOpus.Decoder.Dispose(System.Boolean)
+  name: Dispose(Boolean)
+  href: api/Adrenak.UnityOpus.Decoder.html#Adrenak_UnityOpus_Decoder_Dispose_System_Boolean_
+  commentId: M:Adrenak.UnityOpus.Decoder.Dispose(System.Boolean)
+  fullName: Adrenak.UnityOpus.Decoder.Dispose(System.Boolean)
+  nameWithType: Decoder.Dispose(Boolean)
+- uid: Adrenak.UnityOpus.Decoder.Dispose*
+  name: Dispose
+  href: api/Adrenak.UnityOpus.Decoder.html#Adrenak_UnityOpus_Decoder_Dispose_
+  commentId: Overload:Adrenak.UnityOpus.Decoder.Dispose
+  isSpec: "True"
+  fullName: Adrenak.UnityOpus.Decoder.Dispose
+  nameWithType: Decoder.Dispose
+- uid: Adrenak.UnityOpus.Decoder.Finalize
+  name: Finalize()
+  href: api/Adrenak.UnityOpus.Decoder.html#Adrenak_UnityOpus_Decoder_Finalize
+  commentId: M:Adrenak.UnityOpus.Decoder.Finalize
+  fullName: Adrenak.UnityOpus.Decoder.Finalize()
+  nameWithType: Decoder.Finalize()
+- uid: Adrenak.UnityOpus.Decoder.Finalize*
+  name: Finalize
+  href: api/Adrenak.UnityOpus.Decoder.html#Adrenak_UnityOpus_Decoder_Finalize_
+  commentId: Overload:Adrenak.UnityOpus.Decoder.Finalize
+  isSpec: "True"
+  fullName: Adrenak.UnityOpus.Decoder.Finalize
+  nameWithType: Decoder.Finalize
+- uid: Adrenak.UnityOpus.Decoder.maximumPacketDuration
+  name: maximumPacketDuration
+  href: api/Adrenak.UnityOpus.Decoder.html#Adrenak_UnityOpus_Decoder_maximumPacketDuration
+  commentId: F:Adrenak.UnityOpus.Decoder.maximumPacketDuration
+  fullName: Adrenak.UnityOpus.Decoder.maximumPacketDuration
+  nameWithType: Decoder.maximumPacketDuration
+- uid: Adrenak.UnityOpus.Encoder
+  name: Encoder
+  href: api/Adrenak.UnityOpus.Encoder.html
+  commentId: T:Adrenak.UnityOpus.Encoder
+  fullName: Adrenak.UnityOpus.Encoder
+  nameWithType: Encoder
+- uid: Adrenak.UnityOpus.Encoder.#ctor(Adrenak.UnityOpus.SamplingFrequency,Adrenak.UnityOpus.NumChannels,Adrenak.UnityOpus.OpusApplication)
+  name: Encoder(SamplingFrequency, NumChannels, OpusApplication)
+  href: api/Adrenak.UnityOpus.Encoder.html#Adrenak_UnityOpus_Encoder__ctor_Adrenak_UnityOpus_SamplingFrequency_Adrenak_UnityOpus_NumChannels_Adrenak_UnityOpus_OpusApplication_
+  commentId: M:Adrenak.UnityOpus.Encoder.#ctor(Adrenak.UnityOpus.SamplingFrequency,Adrenak.UnityOpus.NumChannels,Adrenak.UnityOpus.OpusApplication)
+  fullName: Adrenak.UnityOpus.Encoder.Encoder(Adrenak.UnityOpus.SamplingFrequency, Adrenak.UnityOpus.NumChannels, Adrenak.UnityOpus.OpusApplication)
+  nameWithType: Encoder.Encoder(SamplingFrequency, NumChannels, OpusApplication)
+- uid: Adrenak.UnityOpus.Encoder.#ctor*
+  name: Encoder
+  href: api/Adrenak.UnityOpus.Encoder.html#Adrenak_UnityOpus_Encoder__ctor_
+  commentId: Overload:Adrenak.UnityOpus.Encoder.#ctor
+  isSpec: "True"
+  fullName: Adrenak.UnityOpus.Encoder.Encoder
+  nameWithType: Encoder.Encoder
+- uid: Adrenak.UnityOpus.Encoder.Bitrate
+  name: Bitrate
+  href: api/Adrenak.UnityOpus.Encoder.html#Adrenak_UnityOpus_Encoder_Bitrate
+  commentId: P:Adrenak.UnityOpus.Encoder.Bitrate
+  fullName: Adrenak.UnityOpus.Encoder.Bitrate
+  nameWithType: Encoder.Bitrate
+- uid: Adrenak.UnityOpus.Encoder.Bitrate*
+  name: Bitrate
+  href: api/Adrenak.UnityOpus.Encoder.html#Adrenak_UnityOpus_Encoder_Bitrate_
+  commentId: Overload:Adrenak.UnityOpus.Encoder.Bitrate
+  isSpec: "True"
+  fullName: Adrenak.UnityOpus.Encoder.Bitrate
+  nameWithType: Encoder.Bitrate
+- uid: Adrenak.UnityOpus.Encoder.Complexity
+  name: Complexity
+  href: api/Adrenak.UnityOpus.Encoder.html#Adrenak_UnityOpus_Encoder_Complexity
+  commentId: P:Adrenak.UnityOpus.Encoder.Complexity
+  fullName: Adrenak.UnityOpus.Encoder.Complexity
+  nameWithType: Encoder.Complexity
+- uid: Adrenak.UnityOpus.Encoder.Complexity*
+  name: Complexity
+  href: api/Adrenak.UnityOpus.Encoder.html#Adrenak_UnityOpus_Encoder_Complexity_
+  commentId: Overload:Adrenak.UnityOpus.Encoder.Complexity
+  isSpec: "True"
+  fullName: Adrenak.UnityOpus.Encoder.Complexity
+  nameWithType: Encoder.Complexity
+- uid: Adrenak.UnityOpus.Encoder.Dispose
+  name: Dispose()
+  href: api/Adrenak.UnityOpus.Encoder.html#Adrenak_UnityOpus_Encoder_Dispose
+  commentId: M:Adrenak.UnityOpus.Encoder.Dispose
+  fullName: Adrenak.UnityOpus.Encoder.Dispose()
+  nameWithType: Encoder.Dispose()
+- uid: Adrenak.UnityOpus.Encoder.Dispose(System.Boolean)
+  name: Dispose(Boolean)
+  href: api/Adrenak.UnityOpus.Encoder.html#Adrenak_UnityOpus_Encoder_Dispose_System_Boolean_
+  commentId: M:Adrenak.UnityOpus.Encoder.Dispose(System.Boolean)
+  fullName: Adrenak.UnityOpus.Encoder.Dispose(System.Boolean)
+  nameWithType: Encoder.Dispose(Boolean)
+- uid: Adrenak.UnityOpus.Encoder.Dispose*
+  name: Dispose
+  href: api/Adrenak.UnityOpus.Encoder.html#Adrenak_UnityOpus_Encoder_Dispose_
+  commentId: Overload:Adrenak.UnityOpus.Encoder.Dispose
+  isSpec: "True"
+  fullName: Adrenak.UnityOpus.Encoder.Dispose
+  nameWithType: Encoder.Dispose
+- uid: Adrenak.UnityOpus.Encoder.Encode(System.Single[],System.Byte[])
+  name: Encode(Single[], Byte[])
+  href: api/Adrenak.UnityOpus.Encoder.html#Adrenak_UnityOpus_Encoder_Encode_System_Single___System_Byte___
+  commentId: M:Adrenak.UnityOpus.Encoder.Encode(System.Single[],System.Byte[])
+  name.vb: Encode(Single(), Byte())
+  fullName: Adrenak.UnityOpus.Encoder.Encode(System.Single[], System.Byte[])
+  fullName.vb: Adrenak.UnityOpus.Encoder.Encode(System.Single(), System.Byte())
+  nameWithType: Encoder.Encode(Single[], Byte[])
+  nameWithType.vb: Encoder.Encode(Single(), Byte())
+- uid: Adrenak.UnityOpus.Encoder.Encode*
+  name: Encode
+  href: api/Adrenak.UnityOpus.Encoder.html#Adrenak_UnityOpus_Encoder_Encode_
+  commentId: Overload:Adrenak.UnityOpus.Encoder.Encode
+  isSpec: "True"
+  fullName: Adrenak.UnityOpus.Encoder.Encode
+  nameWithType: Encoder.Encode
+- uid: Adrenak.UnityOpus.Encoder.Finalize
+  name: Finalize()
+  href: api/Adrenak.UnityOpus.Encoder.html#Adrenak_UnityOpus_Encoder_Finalize
+  commentId: M:Adrenak.UnityOpus.Encoder.Finalize
+  fullName: Adrenak.UnityOpus.Encoder.Finalize()
+  nameWithType: Encoder.Finalize()
+- uid: Adrenak.UnityOpus.Encoder.Finalize*
+  name: Finalize
+  href: api/Adrenak.UnityOpus.Encoder.html#Adrenak_UnityOpus_Encoder_Finalize_
+  commentId: Overload:Adrenak.UnityOpus.Encoder.Finalize
+  isSpec: "True"
+  fullName: Adrenak.UnityOpus.Encoder.Finalize
+  nameWithType: Encoder.Finalize
+- uid: Adrenak.UnityOpus.Encoder.Signal
+  name: Signal
+  href: api/Adrenak.UnityOpus.Encoder.html#Adrenak_UnityOpus_Encoder_Signal
+  commentId: P:Adrenak.UnityOpus.Encoder.Signal
+  fullName: Adrenak.UnityOpus.Encoder.Signal
+  nameWithType: Encoder.Signal
+- uid: Adrenak.UnityOpus.Encoder.Signal*
+  name: Signal
+  href: api/Adrenak.UnityOpus.Encoder.html#Adrenak_UnityOpus_Encoder_Signal_
+  commentId: Overload:Adrenak.UnityOpus.Encoder.Signal
+  isSpec: "True"
+  fullName: Adrenak.UnityOpus.Encoder.Signal
+  nameWithType: Encoder.Signal
+- uid: Adrenak.UnityOpus.ErrorCode
+  name: ErrorCode
+  href: api/Adrenak.UnityOpus.ErrorCode.html
+  commentId: T:Adrenak.UnityOpus.ErrorCode
+  fullName: Adrenak.UnityOpus.ErrorCode
+  nameWithType: ErrorCode
+- uid: Adrenak.UnityOpus.ErrorCode.AllocFail
+  name: AllocFail
+  href: api/Adrenak.UnityOpus.ErrorCode.html#Adrenak_UnityOpus_ErrorCode_AllocFail
+  commentId: F:Adrenak.UnityOpus.ErrorCode.AllocFail
+  fullName: Adrenak.UnityOpus.ErrorCode.AllocFail
+  nameWithType: ErrorCode.AllocFail
+- uid: Adrenak.UnityOpus.ErrorCode.BadArg
+  name: BadArg
+  href: api/Adrenak.UnityOpus.ErrorCode.html#Adrenak_UnityOpus_ErrorCode_BadArg
+  commentId: F:Adrenak.UnityOpus.ErrorCode.BadArg
+  fullName: Adrenak.UnityOpus.ErrorCode.BadArg
+  nameWithType: ErrorCode.BadArg
+- uid: Adrenak.UnityOpus.ErrorCode.BufferTooSmall
+  name: BufferTooSmall
+  href: api/Adrenak.UnityOpus.ErrorCode.html#Adrenak_UnityOpus_ErrorCode_BufferTooSmall
+  commentId: F:Adrenak.UnityOpus.ErrorCode.BufferTooSmall
+  fullName: Adrenak.UnityOpus.ErrorCode.BufferTooSmall
+  nameWithType: ErrorCode.BufferTooSmall
+- uid: Adrenak.UnityOpus.ErrorCode.InternalError
+  name: InternalError
+  href: api/Adrenak.UnityOpus.ErrorCode.html#Adrenak_UnityOpus_ErrorCode_InternalError
+  commentId: F:Adrenak.UnityOpus.ErrorCode.InternalError
+  fullName: Adrenak.UnityOpus.ErrorCode.InternalError
+  nameWithType: ErrorCode.InternalError
+- uid: Adrenak.UnityOpus.ErrorCode.InvalidPacket
+  name: InvalidPacket
+  href: api/Adrenak.UnityOpus.ErrorCode.html#Adrenak_UnityOpus_ErrorCode_InvalidPacket
+  commentId: F:Adrenak.UnityOpus.ErrorCode.InvalidPacket
+  fullName: Adrenak.UnityOpus.ErrorCode.InvalidPacket
+  nameWithType: ErrorCode.InvalidPacket
+- uid: Adrenak.UnityOpus.ErrorCode.InvalidState
+  name: InvalidState
+  href: api/Adrenak.UnityOpus.ErrorCode.html#Adrenak_UnityOpus_ErrorCode_InvalidState
+  commentId: F:Adrenak.UnityOpus.ErrorCode.InvalidState
+  fullName: Adrenak.UnityOpus.ErrorCode.InvalidState
+  nameWithType: ErrorCode.InvalidState
+- uid: Adrenak.UnityOpus.ErrorCode.OK
+  name: OK
+  href: api/Adrenak.UnityOpus.ErrorCode.html#Adrenak_UnityOpus_ErrorCode_OK
+  commentId: F:Adrenak.UnityOpus.ErrorCode.OK
+  fullName: Adrenak.UnityOpus.ErrorCode.OK
+  nameWithType: ErrorCode.OK
+- uid: Adrenak.UnityOpus.ErrorCode.Unimplemented
+  name: Unimplemented
+  href: api/Adrenak.UnityOpus.ErrorCode.html#Adrenak_UnityOpus_ErrorCode_Unimplemented
+  commentId: F:Adrenak.UnityOpus.ErrorCode.Unimplemented
+  fullName: Adrenak.UnityOpus.ErrorCode.Unimplemented
+  nameWithType: ErrorCode.Unimplemented
+- uid: Adrenak.UnityOpus.NumChannels
+  name: NumChannels
+  href: api/Adrenak.UnityOpus.NumChannels.html
+  commentId: T:Adrenak.UnityOpus.NumChannels
+  fullName: Adrenak.UnityOpus.NumChannels
+  nameWithType: NumChannels
+- uid: Adrenak.UnityOpus.NumChannels.Mono
+  name: Mono
+  href: api/Adrenak.UnityOpus.NumChannels.html#Adrenak_UnityOpus_NumChannels_Mono
+  commentId: F:Adrenak.UnityOpus.NumChannels.Mono
+  fullName: Adrenak.UnityOpus.NumChannels.Mono
+  nameWithType: NumChannels.Mono
+- uid: Adrenak.UnityOpus.NumChannels.Stereo
+  name: Stereo
+  href: api/Adrenak.UnityOpus.NumChannels.html#Adrenak_UnityOpus_NumChannels_Stereo
+  commentId: F:Adrenak.UnityOpus.NumChannels.Stereo
+  fullName: Adrenak.UnityOpus.NumChannels.Stereo
+  nameWithType: NumChannels.Stereo
+- uid: Adrenak.UnityOpus.OpusApplication
+  name: OpusApplication
+  href: api/Adrenak.UnityOpus.OpusApplication.html
+  commentId: T:Adrenak.UnityOpus.OpusApplication
+  fullName: Adrenak.UnityOpus.OpusApplication
+  nameWithType: OpusApplication
+- uid: Adrenak.UnityOpus.OpusApplication.Audio
+  name: Audio
+  href: api/Adrenak.UnityOpus.OpusApplication.html#Adrenak_UnityOpus_OpusApplication_Audio
+  commentId: F:Adrenak.UnityOpus.OpusApplication.Audio
+  fullName: Adrenak.UnityOpus.OpusApplication.Audio
+  nameWithType: OpusApplication.Audio
+- uid: Adrenak.UnityOpus.OpusApplication.RestrictedLowDelay
+  name: RestrictedLowDelay
+  href: api/Adrenak.UnityOpus.OpusApplication.html#Adrenak_UnityOpus_OpusApplication_RestrictedLowDelay
+  commentId: F:Adrenak.UnityOpus.OpusApplication.RestrictedLowDelay
+  fullName: Adrenak.UnityOpus.OpusApplication.RestrictedLowDelay
+  nameWithType: OpusApplication.RestrictedLowDelay
+- uid: Adrenak.UnityOpus.OpusApplication.VoIP
+  name: VoIP
+  href: api/Adrenak.UnityOpus.OpusApplication.html#Adrenak_UnityOpus_OpusApplication_VoIP
+  commentId: F:Adrenak.UnityOpus.OpusApplication.VoIP
+  fullName: Adrenak.UnityOpus.OpusApplication.VoIP
+  nameWithType: OpusApplication.VoIP
+- uid: Adrenak.UnityOpus.OpusLib
+  name: OpusLib
+  href: api/Adrenak.UnityOpus.OpusLib.html
+  commentId: T:Adrenak.UnityOpus.OpusLib
+  fullName: Adrenak.UnityOpus.OpusLib
+  nameWithType: OpusLib
+- uid: Adrenak.UnityOpus.OpusLib.maximumPacketDuration
+  name: maximumPacketDuration
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_maximumPacketDuration
+  commentId: F:Adrenak.UnityOpus.OpusLib.maximumPacketDuration
+  fullName: Adrenak.UnityOpus.OpusLib.maximumPacketDuration
+  nameWithType: OpusLib.maximumPacketDuration
+- uid: Adrenak.UnityOpus.OpusLib.OpusDecode(System.IntPtr,System.Byte[],System.Int32,System.Int16[],System.Int32,System.Int32)
+  name: OpusDecode(IntPtr, Byte[], Int32, Int16[], Int32, Int32)
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusDecode_System_IntPtr_System_Byte___System_Int32_System_Int16___System_Int32_System_Int32_
+  commentId: M:Adrenak.UnityOpus.OpusLib.OpusDecode(System.IntPtr,System.Byte[],System.Int32,System.Int16[],System.Int32,System.Int32)
+  name.vb: OpusDecode(IntPtr, Byte(), Int32, Int16(), Int32, Int32)
+  fullName: Adrenak.UnityOpus.OpusLib.OpusDecode(System.IntPtr, System.Byte[], System.Int32, System.Int16[], System.Int32, System.Int32)
+  fullName.vb: Adrenak.UnityOpus.OpusLib.OpusDecode(System.IntPtr, System.Byte(), System.Int32, System.Int16(), System.Int32, System.Int32)
+  nameWithType: OpusLib.OpusDecode(IntPtr, Byte[], Int32, Int16[], Int32, Int32)
+  nameWithType.vb: OpusLib.OpusDecode(IntPtr, Byte(), Int32, Int16(), Int32, Int32)
+- uid: Adrenak.UnityOpus.OpusLib.OpusDecode*
+  name: OpusDecode
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusDecode_
+  commentId: Overload:Adrenak.UnityOpus.OpusLib.OpusDecode
+  fullName: Adrenak.UnityOpus.OpusLib.OpusDecode
+  nameWithType: OpusLib.OpusDecode
+- uid: Adrenak.UnityOpus.OpusLib.OpusDecodeFloat(System.IntPtr,System.Byte[],System.Int32,System.Single[],System.Int32,System.Int32)
+  name: OpusDecodeFloat(IntPtr, Byte[], Int32, Single[], Int32, Int32)
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusDecodeFloat_System_IntPtr_System_Byte___System_Int32_System_Single___System_Int32_System_Int32_
+  commentId: M:Adrenak.UnityOpus.OpusLib.OpusDecodeFloat(System.IntPtr,System.Byte[],System.Int32,System.Single[],System.Int32,System.Int32)
+  name.vb: OpusDecodeFloat(IntPtr, Byte(), Int32, Single(), Int32, Int32)
+  fullName: Adrenak.UnityOpus.OpusLib.OpusDecodeFloat(System.IntPtr, System.Byte[], System.Int32, System.Single[], System.Int32, System.Int32)
+  fullName.vb: Adrenak.UnityOpus.OpusLib.OpusDecodeFloat(System.IntPtr, System.Byte(), System.Int32, System.Single(), System.Int32, System.Int32)
+  nameWithType: OpusLib.OpusDecodeFloat(IntPtr, Byte[], Int32, Single[], Int32, Int32)
+  nameWithType.vb: OpusLib.OpusDecodeFloat(IntPtr, Byte(), Int32, Single(), Int32, Int32)
+- uid: Adrenak.UnityOpus.OpusLib.OpusDecodeFloat*
+  name: OpusDecodeFloat
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusDecodeFloat_
+  commentId: Overload:Adrenak.UnityOpus.OpusLib.OpusDecodeFloat
+  fullName: Adrenak.UnityOpus.OpusLib.OpusDecodeFloat
+  nameWithType: OpusLib.OpusDecodeFloat
+- uid: Adrenak.UnityOpus.OpusLib.OpusDecoderCreate(Adrenak.UnityOpus.SamplingFrequency,Adrenak.UnityOpus.NumChannels,Adrenak.UnityOpus.ErrorCode@)
+  name: OpusDecoderCreate(SamplingFrequency, NumChannels, out ErrorCode)
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusDecoderCreate_Adrenak_UnityOpus_SamplingFrequency_Adrenak_UnityOpus_NumChannels_Adrenak_UnityOpus_ErrorCode__
+  commentId: M:Adrenak.UnityOpus.OpusLib.OpusDecoderCreate(Adrenak.UnityOpus.SamplingFrequency,Adrenak.UnityOpus.NumChannels,Adrenak.UnityOpus.ErrorCode@)
+  name.vb: OpusDecoderCreate(SamplingFrequency, NumChannels, ByRef ErrorCode)
+  fullName: Adrenak.UnityOpus.OpusLib.OpusDecoderCreate(Adrenak.UnityOpus.SamplingFrequency, Adrenak.UnityOpus.NumChannels, out Adrenak.UnityOpus.ErrorCode)
+  fullName.vb: Adrenak.UnityOpus.OpusLib.OpusDecoderCreate(Adrenak.UnityOpus.SamplingFrequency, Adrenak.UnityOpus.NumChannels, ByRef Adrenak.UnityOpus.ErrorCode)
+  nameWithType: OpusLib.OpusDecoderCreate(SamplingFrequency, NumChannels, out ErrorCode)
+  nameWithType.vb: OpusLib.OpusDecoderCreate(SamplingFrequency, NumChannels, ByRef ErrorCode)
+- uid: Adrenak.UnityOpus.OpusLib.OpusDecoderCreate*
+  name: OpusDecoderCreate
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusDecoderCreate_
+  commentId: Overload:Adrenak.UnityOpus.OpusLib.OpusDecoderCreate
+  fullName: Adrenak.UnityOpus.OpusLib.OpusDecoderCreate
+  nameWithType: OpusLib.OpusDecoderCreate
+- uid: Adrenak.UnityOpus.OpusLib.OpusDecoderDestroy(System.IntPtr)
+  name: OpusDecoderDestroy(IntPtr)
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusDecoderDestroy_System_IntPtr_
+  commentId: M:Adrenak.UnityOpus.OpusLib.OpusDecoderDestroy(System.IntPtr)
+  fullName: Adrenak.UnityOpus.OpusLib.OpusDecoderDestroy(System.IntPtr)
+  nameWithType: OpusLib.OpusDecoderDestroy(IntPtr)
+- uid: Adrenak.UnityOpus.OpusLib.OpusDecoderDestroy*
+  name: OpusDecoderDestroy
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusDecoderDestroy_
+  commentId: Overload:Adrenak.UnityOpus.OpusLib.OpusDecoderDestroy
+  fullName: Adrenak.UnityOpus.OpusLib.OpusDecoderDestroy
+  nameWithType: OpusLib.OpusDecoderDestroy
+- uid: Adrenak.UnityOpus.OpusLib.OpusEncode(System.IntPtr,System.Int16[],System.Int32,System.Byte[],System.Int32)
+  name: OpusEncode(IntPtr, Int16[], Int32, Byte[], Int32)
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusEncode_System_IntPtr_System_Int16___System_Int32_System_Byte___System_Int32_
+  commentId: M:Adrenak.UnityOpus.OpusLib.OpusEncode(System.IntPtr,System.Int16[],System.Int32,System.Byte[],System.Int32)
+  name.vb: OpusEncode(IntPtr, Int16(), Int32, Byte(), Int32)
+  fullName: Adrenak.UnityOpus.OpusLib.OpusEncode(System.IntPtr, System.Int16[], System.Int32, System.Byte[], System.Int32)
+  fullName.vb: Adrenak.UnityOpus.OpusLib.OpusEncode(System.IntPtr, System.Int16(), System.Int32, System.Byte(), System.Int32)
+  nameWithType: OpusLib.OpusEncode(IntPtr, Int16[], Int32, Byte[], Int32)
+  nameWithType.vb: OpusLib.OpusEncode(IntPtr, Int16(), Int32, Byte(), Int32)
+- uid: Adrenak.UnityOpus.OpusLib.OpusEncode*
+  name: OpusEncode
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusEncode_
+  commentId: Overload:Adrenak.UnityOpus.OpusLib.OpusEncode
+  fullName: Adrenak.UnityOpus.OpusLib.OpusEncode
+  nameWithType: OpusLib.OpusEncode
+- uid: Adrenak.UnityOpus.OpusLib.OpusEncodeFloat(System.IntPtr,System.Single[],System.Int32,System.Byte[],System.Int32)
+  name: OpusEncodeFloat(IntPtr, Single[], Int32, Byte[], Int32)
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusEncodeFloat_System_IntPtr_System_Single___System_Int32_System_Byte___System_Int32_
+  commentId: M:Adrenak.UnityOpus.OpusLib.OpusEncodeFloat(System.IntPtr,System.Single[],System.Int32,System.Byte[],System.Int32)
+  name.vb: OpusEncodeFloat(IntPtr, Single(), Int32, Byte(), Int32)
+  fullName: Adrenak.UnityOpus.OpusLib.OpusEncodeFloat(System.IntPtr, System.Single[], System.Int32, System.Byte[], System.Int32)
+  fullName.vb: Adrenak.UnityOpus.OpusLib.OpusEncodeFloat(System.IntPtr, System.Single(), System.Int32, System.Byte(), System.Int32)
+  nameWithType: OpusLib.OpusEncodeFloat(IntPtr, Single[], Int32, Byte[], Int32)
+  nameWithType.vb: OpusLib.OpusEncodeFloat(IntPtr, Single(), Int32, Byte(), Int32)
+- uid: Adrenak.UnityOpus.OpusLib.OpusEncodeFloat*
+  name: OpusEncodeFloat
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusEncodeFloat_
+  commentId: Overload:Adrenak.UnityOpus.OpusLib.OpusEncodeFloat
+  fullName: Adrenak.UnityOpus.OpusLib.OpusEncodeFloat
+  nameWithType: OpusLib.OpusEncodeFloat
+- uid: Adrenak.UnityOpus.OpusLib.OpusEncoderCreate(Adrenak.UnityOpus.SamplingFrequency,Adrenak.UnityOpus.NumChannels,Adrenak.UnityOpus.OpusApplication,Adrenak.UnityOpus.ErrorCode@)
+  name: OpusEncoderCreate(SamplingFrequency, NumChannels, OpusApplication, out ErrorCode)
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusEncoderCreate_Adrenak_UnityOpus_SamplingFrequency_Adrenak_UnityOpus_NumChannels_Adrenak_UnityOpus_OpusApplication_Adrenak_UnityOpus_ErrorCode__
+  commentId: M:Adrenak.UnityOpus.OpusLib.OpusEncoderCreate(Adrenak.UnityOpus.SamplingFrequency,Adrenak.UnityOpus.NumChannels,Adrenak.UnityOpus.OpusApplication,Adrenak.UnityOpus.ErrorCode@)
+  name.vb: OpusEncoderCreate(SamplingFrequency, NumChannels, OpusApplication, ByRef ErrorCode)
+  fullName: Adrenak.UnityOpus.OpusLib.OpusEncoderCreate(Adrenak.UnityOpus.SamplingFrequency, Adrenak.UnityOpus.NumChannels, Adrenak.UnityOpus.OpusApplication, out Adrenak.UnityOpus.ErrorCode)
+  fullName.vb: Adrenak.UnityOpus.OpusLib.OpusEncoderCreate(Adrenak.UnityOpus.SamplingFrequency, Adrenak.UnityOpus.NumChannels, Adrenak.UnityOpus.OpusApplication, ByRef Adrenak.UnityOpus.ErrorCode)
+  nameWithType: OpusLib.OpusEncoderCreate(SamplingFrequency, NumChannels, OpusApplication, out ErrorCode)
+  nameWithType.vb: OpusLib.OpusEncoderCreate(SamplingFrequency, NumChannels, OpusApplication, ByRef ErrorCode)
+- uid: Adrenak.UnityOpus.OpusLib.OpusEncoderCreate*
+  name: OpusEncoderCreate
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusEncoderCreate_
+  commentId: Overload:Adrenak.UnityOpus.OpusLib.OpusEncoderCreate
+  fullName: Adrenak.UnityOpus.OpusLib.OpusEncoderCreate
+  nameWithType: OpusLib.OpusEncoderCreate
+- uid: Adrenak.UnityOpus.OpusLib.OpusEncoderDestroy(System.IntPtr)
+  name: OpusEncoderDestroy(IntPtr)
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusEncoderDestroy_System_IntPtr_
+  commentId: M:Adrenak.UnityOpus.OpusLib.OpusEncoderDestroy(System.IntPtr)
+  fullName: Adrenak.UnityOpus.OpusLib.OpusEncoderDestroy(System.IntPtr)
+  nameWithType: OpusLib.OpusEncoderDestroy(IntPtr)
+- uid: Adrenak.UnityOpus.OpusLib.OpusEncoderDestroy*
+  name: OpusEncoderDestroy
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusEncoderDestroy_
+  commentId: Overload:Adrenak.UnityOpus.OpusLib.OpusEncoderDestroy
+  fullName: Adrenak.UnityOpus.OpusLib.OpusEncoderDestroy
+  nameWithType: OpusLib.OpusEncoderDestroy
+- uid: Adrenak.UnityOpus.OpusLib.OpusEncoderSetBitrate(System.IntPtr,System.Int32)
+  name: OpusEncoderSetBitrate(IntPtr, Int32)
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusEncoderSetBitrate_System_IntPtr_System_Int32_
+  commentId: M:Adrenak.UnityOpus.OpusLib.OpusEncoderSetBitrate(System.IntPtr,System.Int32)
+  fullName: Adrenak.UnityOpus.OpusLib.OpusEncoderSetBitrate(System.IntPtr, System.Int32)
+  nameWithType: OpusLib.OpusEncoderSetBitrate(IntPtr, Int32)
+- uid: Adrenak.UnityOpus.OpusLib.OpusEncoderSetBitrate*
+  name: OpusEncoderSetBitrate
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusEncoderSetBitrate_
+  commentId: Overload:Adrenak.UnityOpus.OpusLib.OpusEncoderSetBitrate
+  fullName: Adrenak.UnityOpus.OpusLib.OpusEncoderSetBitrate
+  nameWithType: OpusLib.OpusEncoderSetBitrate
+- uid: Adrenak.UnityOpus.OpusLib.OpusEncoderSetComplexity(System.IntPtr,System.Int32)
+  name: OpusEncoderSetComplexity(IntPtr, Int32)
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusEncoderSetComplexity_System_IntPtr_System_Int32_
+  commentId: M:Adrenak.UnityOpus.OpusLib.OpusEncoderSetComplexity(System.IntPtr,System.Int32)
+  fullName: Adrenak.UnityOpus.OpusLib.OpusEncoderSetComplexity(System.IntPtr, System.Int32)
+  nameWithType: OpusLib.OpusEncoderSetComplexity(IntPtr, Int32)
+- uid: Adrenak.UnityOpus.OpusLib.OpusEncoderSetComplexity*
+  name: OpusEncoderSetComplexity
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusEncoderSetComplexity_
+  commentId: Overload:Adrenak.UnityOpus.OpusLib.OpusEncoderSetComplexity
+  fullName: Adrenak.UnityOpus.OpusLib.OpusEncoderSetComplexity
+  nameWithType: OpusLib.OpusEncoderSetComplexity
+- uid: Adrenak.UnityOpus.OpusLib.OpusEncoderSetSignal(System.IntPtr,Adrenak.UnityOpus.OpusSignal)
+  name: OpusEncoderSetSignal(IntPtr, OpusSignal)
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusEncoderSetSignal_System_IntPtr_Adrenak_UnityOpus_OpusSignal_
+  commentId: M:Adrenak.UnityOpus.OpusLib.OpusEncoderSetSignal(System.IntPtr,Adrenak.UnityOpus.OpusSignal)
+  fullName: Adrenak.UnityOpus.OpusLib.OpusEncoderSetSignal(System.IntPtr, Adrenak.UnityOpus.OpusSignal)
+  nameWithType: OpusLib.OpusEncoderSetSignal(IntPtr, OpusSignal)
+- uid: Adrenak.UnityOpus.OpusLib.OpusEncoderSetSignal*
+  name: OpusEncoderSetSignal
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusEncoderSetSignal_
+  commentId: Overload:Adrenak.UnityOpus.OpusLib.OpusEncoderSetSignal
+  fullName: Adrenak.UnityOpus.OpusLib.OpusEncoderSetSignal
+  nameWithType: OpusLib.OpusEncoderSetSignal
+- uid: Adrenak.UnityOpus.OpusLib.OpusPcmSoftClip(System.Single[],System.Int32,Adrenak.UnityOpus.NumChannels,System.Single[])
+  name: OpusPcmSoftClip(Single[], Int32, NumChannels, Single[])
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusPcmSoftClip_System_Single___System_Int32_Adrenak_UnityOpus_NumChannels_System_Single___
+  commentId: M:Adrenak.UnityOpus.OpusLib.OpusPcmSoftClip(System.Single[],System.Int32,Adrenak.UnityOpus.NumChannels,System.Single[])
+  name.vb: OpusPcmSoftClip(Single(), Int32, NumChannels, Single())
+  fullName: Adrenak.UnityOpus.OpusLib.OpusPcmSoftClip(System.Single[], System.Int32, Adrenak.UnityOpus.NumChannels, System.Single[])
+  fullName.vb: Adrenak.UnityOpus.OpusLib.OpusPcmSoftClip(System.Single(), System.Int32, Adrenak.UnityOpus.NumChannels, System.Single())
+  nameWithType: OpusLib.OpusPcmSoftClip(Single[], Int32, NumChannels, Single[])
+  nameWithType.vb: OpusLib.OpusPcmSoftClip(Single(), Int32, NumChannels, Single())
+- uid: Adrenak.UnityOpus.OpusLib.OpusPcmSoftClip*
+  name: OpusPcmSoftClip
+  href: api/Adrenak.UnityOpus.OpusLib.html#Adrenak_UnityOpus_OpusLib_OpusPcmSoftClip_
+  commentId: Overload:Adrenak.UnityOpus.OpusLib.OpusPcmSoftClip
+  fullName: Adrenak.UnityOpus.OpusLib.OpusPcmSoftClip
+  nameWithType: OpusLib.OpusPcmSoftClip
+- uid: Adrenak.UnityOpus.OpusSignal
+  name: OpusSignal
+  href: api/Adrenak.UnityOpus.OpusSignal.html
+  commentId: T:Adrenak.UnityOpus.OpusSignal
+  fullName: Adrenak.UnityOpus.OpusSignal
+  nameWithType: OpusSignal
+- uid: Adrenak.UnityOpus.OpusSignal.Auto
+  name: Auto
+  href: api/Adrenak.UnityOpus.OpusSignal.html#Adrenak_UnityOpus_OpusSignal_Auto
+  commentId: F:Adrenak.UnityOpus.OpusSignal.Auto
+  fullName: Adrenak.UnityOpus.OpusSignal.Auto
+  nameWithType: OpusSignal.Auto
+- uid: Adrenak.UnityOpus.OpusSignal.Music
+  name: Music
+  href: api/Adrenak.UnityOpus.OpusSignal.html#Adrenak_UnityOpus_OpusSignal_Music
+  commentId: F:Adrenak.UnityOpus.OpusSignal.Music
+  fullName: Adrenak.UnityOpus.OpusSignal.Music
+  nameWithType: OpusSignal.Music
+- uid: Adrenak.UnityOpus.OpusSignal.Voice
+  name: Voice
+  href: api/Adrenak.UnityOpus.OpusSignal.html#Adrenak_UnityOpus_OpusSignal_Voice
+  commentId: F:Adrenak.UnityOpus.OpusSignal.Voice
+  fullName: Adrenak.UnityOpus.OpusSignal.Voice
+  nameWithType: OpusSignal.Voice
+- uid: Adrenak.UnityOpus.SamplingFrequency
+  name: SamplingFrequency
+  href: api/Adrenak.UnityOpus.SamplingFrequency.html
+  commentId: T:Adrenak.UnityOpus.SamplingFrequency
+  fullName: Adrenak.UnityOpus.SamplingFrequency
+  nameWithType: SamplingFrequency
+- uid: Adrenak.UnityOpus.SamplingFrequency.Frequency_12000
+  name: Frequency_12000
+  href: api/Adrenak.UnityOpus.SamplingFrequency.html#Adrenak_UnityOpus_SamplingFrequency_Frequency_12000
+  commentId: F:Adrenak.UnityOpus.SamplingFrequency.Frequency_12000
+  fullName: Adrenak.UnityOpus.SamplingFrequency.Frequency_12000
+  nameWithType: SamplingFrequency.Frequency_12000
+- uid: Adrenak.UnityOpus.SamplingFrequency.Frequency_16000
+  name: Frequency_16000
+  href: api/Adrenak.UnityOpus.SamplingFrequency.html#Adrenak_UnityOpus_SamplingFrequency_Frequency_16000
+  commentId: F:Adrenak.UnityOpus.SamplingFrequency.Frequency_16000
+  fullName: Adrenak.UnityOpus.SamplingFrequency.Frequency_16000
+  nameWithType: SamplingFrequency.Frequency_16000
+- uid: Adrenak.UnityOpus.SamplingFrequency.Frequency_24000
+  name: Frequency_24000
+  href: api/Adrenak.UnityOpus.SamplingFrequency.html#Adrenak_UnityOpus_SamplingFrequency_Frequency_24000
+  commentId: F:Adrenak.UnityOpus.SamplingFrequency.Frequency_24000
+  fullName: Adrenak.UnityOpus.SamplingFrequency.Frequency_24000
+  nameWithType: SamplingFrequency.Frequency_24000
+- uid: Adrenak.UnityOpus.SamplingFrequency.Frequency_48000
+  name: Frequency_48000
+  href: api/Adrenak.UnityOpus.SamplingFrequency.html#Adrenak_UnityOpus_SamplingFrequency_Frequency_48000
+  commentId: F:Adrenak.UnityOpus.SamplingFrequency.Frequency_48000
+  fullName: Adrenak.UnityOpus.SamplingFrequency.Frequency_48000
+  nameWithType: SamplingFrequency.Frequency_48000
+- uid: Adrenak.UnityOpus.SamplingFrequency.Frequency_8000
+  name: Frequency_8000
+  href: api/Adrenak.UnityOpus.SamplingFrequency.html#Adrenak_UnityOpus_SamplingFrequency_Frequency_8000
+  commentId: F:Adrenak.UnityOpus.SamplingFrequency.Frequency_8000
+  fullName: Adrenak.UnityOpus.SamplingFrequency.Frequency_8000
+  nameWithType: SamplingFrequency.Frequency_8000

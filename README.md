@@ -1,23 +1,7 @@
-# UnityOpus
-libopus bridge for Unity.
+## UnityOpus
+Note: A UPM fork of [UnityOps by TyounanMOTI](https://github.com/TyounanMOTI/UnityOpus) with some XML comments. The original project is sponsored by Cluster, Inc. 
 
-# Requirements
-UnityOpus is tested on following environments:
-- Windows 10
-- Mac OS X
-- Android (Oculus Quest)
-
-TBD for other environments.
-
-# Documentation
-TBD.
-
-# License
-The MIT License
-
-# Acknowledgements
-## libopus 1.2.1
-Copyright 2001-2011 Xiph.Org, Skype Limited, Octasic, Jean-Marc Valin, Timothy B. Terriberry, CSIRO, Gregory Maxwell, Mark Borgerding, Erik de Castro Lopo
-
-# Sponsorship
-UnityOpus is sponsored by Cluster, Inc.
+## Contact 👥
+[@github](https://www.github.com/adrenak)  
+[@website](http://www.vatsalambastha.com)  
+@discord: `adrenak#1934`

@@ -2,7 +2,14 @@
 using System.Runtime.InteropServices;
 
 namespace Adrenak.UnityOpus {
+    /// <summary>
+    /// Provides interop calls to the Opus native libraries
+    /// </summary>
     public class OpusLib {
+        /// <summary>
+        /// The maximum duration (in milliseconds) of a single packet 
+        /// of encoded audio data that the decoder can handle
+        /// </summary>
         public const int maximumPacketDuration = 5760;
 
 #if UNITY_ANDROID

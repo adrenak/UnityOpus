@@ -1,0 +1,15 @@
+{
+	"name": "com.adrenak.unityopus",
+	"version": "1.0.0",
+	"displayName": "Adrenak.UnityOpus",
+	"description": "Opus library for Unity. UPM fork of TyounanMOTI/UnityOpus",
+	"unity": "2019.4",
+	"author": {
+		"name": "Vatsal Ambastha",
+		"email": "ambastha.vatsal@gmail.com",
+		"url": "http://www.vatsalambastha.com"
+	},
+	"publishConfig": {
+		"registry": "https://registry.npmjs.org"
+	}
+}

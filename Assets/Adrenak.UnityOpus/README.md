@@ -1,6 +1,8 @@
 ## UnityOpus 🔉
 Note: A UPM fork of [UnityOps by TyounanMOTI](https://github.com/TyounanMOTI/UnityOpus) with some XML comments. The original project is sponsored by Cluster, Inc. 
 
+📣 Concentus for Unity, a pure C# port of Opus without any native libraries is available [HERE](https::/www.github.com/adrenak/concentus-unity).
+
 [Scripting reference](http://www.vatsalambastha.com/UnityOpus)
 
 ## Installation 📦
